@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+starlette
+python-multipart
+streamlit
+requests
+pymupdf
+langchain
+langchain-text-splitters
+langchain-groq
+qdrant-client
+llama-cpp-python
