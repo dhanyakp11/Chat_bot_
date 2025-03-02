@@ -10,3 +10,4 @@ langchain-text-splitters
 langchain-groq
 qdrant-client
 llama-cpp-python
+PyPDF2
